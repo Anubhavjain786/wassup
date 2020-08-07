@@ -1,0 +1,11 @@
+{
+  "name": "wassup",
+  "version": "1.0.0",
+  "description": "Real Time Chat Application using Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anubhav Jain",
+  "license": "ISC"
+}
